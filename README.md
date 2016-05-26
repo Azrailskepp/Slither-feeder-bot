@@ -7,6 +7,7 @@ An Open Source Slither.io Feeder Bot
 ## Running Feeder Bot
 
 ***This seems to be the most popular question. But First Run This "RunIdepend.bat" After That Being Done. ~Important***
+
 ***Secondly, Get Some Proxies and then paste in this file "proxies.txt". ~Important***
 
 ***Just Run These Files "StartServer.bat" & "StartBot.bat"***
