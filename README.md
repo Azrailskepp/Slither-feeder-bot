@@ -28,4 +28,5 @@ Unlike many other slither.io bots, this one does not require a browser and can b
 ## License
 
 MIT © [Dahquan Hinds](https://github.com/dahquan)   (For the Library)
+
 MIT © [Mayed505](https://github.com/mayed505)
