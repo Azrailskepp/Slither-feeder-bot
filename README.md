@@ -3,6 +3,8 @@
 An Open Source Slither.io Feeder Bot
 
 ***Needs more contributers! Better documentation coming soon!***
+## Tutorial
+https://www.youtube.com/watch?v=fVmsCdd7qkA&feature=youtu.be
 
 ## Running Feeder Bot
 
